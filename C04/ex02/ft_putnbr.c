@@ -15,7 +15,7 @@
 void	ft_putchar(char c)
 {
 	write(1, &c, 1);
-}gg
+}
 
 void	ft_putnbr(int nb)
 {
